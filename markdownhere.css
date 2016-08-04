@@ -1,11 +1,8 @@
 
-markdown-here-css
-Raw  markdownhere.css
 .markdown-here-wrapper {
   font-size: 16px;
   line-height: 1.8em;
   letter-spacing: 0.1em;
-  color:#424242;
 
 }
 
@@ -41,7 +38,7 @@ strong, b{
 }
 
 em, i {
-  color: #607D8B;/*#009688;*/
+  color: #137CA1;/*#009688;*/
 }
 
 hr {
@@ -96,9 +93,10 @@ dl dd {
 blockquote, q {
   border-left: 2px solid #607D8B;/*#009688;*/
   padding: 0 10px;
-  color: #777;
+  color: #777 !important;
   quotes: none;
   margin-left: 1em;
+  font-style:italic;
 }
 
 blockquote::before, blockquote::after, q::before, q::after {
@@ -116,32 +114,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 24px !important;
+  font-size: 26px !important;
   border-bottom: 3px solid #ddd !important;
-  color:#14272d;
+  color:#425352;
 }
 
 h2 {
-  font-size: 20px !important;
+  font-size: 24px !important;
   border-bottom: 3px solid #eee !important;
-  color:#14272d;
+  color:#425352;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
   border-bottom: 2px solid #eee !important;
-  color:#193540;
+  color:#478c89;
 }
 
 h4 {
-  font-size: 16px;
-  color:#1e3e49;
+  font-size: 18px;
+  color:#6aafaa;
   border-bottom: 1px solid #eee !important;
 }
 h5 {
     font-size: 16px;
-    color:#365862;
-    border-bottom: 1px solid #eee !important;
+    color:#9fdded;
 }
 
 table {
