@@ -1,4 +1,54 @@
+/*
+原配色方案：
+h1 {
+  font-size: 26px !important;
+  border-bottom: 3px solid #ddd !important;
+  color:#425352;
+}
 
+h2 {
+  font-size: 24px !important;
+  border-bottom: 3px solid #eee !important;
+  color:#425352;
+}
+
+h3 {
+  font-size: 20px;
+  border-bottom: 2px solid #eee !important;
+  color:#478c89;
+}
+
+h4 {
+  font-size: 18px;
+  color:#6aafaa;
+  border-bottom: 1px solid #eee !important;
+}
+h5 {
+    font-size: 16px;
+    color:#9fdded;
+}
+
+另一些配色方案：
+紫色系：
+1：25046c
+2：36175e
+3：553285
+4：7B52AB
+5：9768D1
+
+蓝绿系：
+1：225378
+2：1695A3
+3：ACF0F2
+4：EB7F00
+
+蓝色系
+1：00305A
+2：004B8D
+3：0074D9
+4：4192D9
+5：7ABAF2
+*/
 .markdown-here-wrapper {
   font-size: 16px;
   line-height: 1.8em;
