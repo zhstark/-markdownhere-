@@ -50,8 +50,8 @@ h5 {
 5：7ABAF2
 */
 .markdown-here-wrapper {
-  font-size: 16px;
-  line-height: 1.8em;
+  font-size: 15px;
+  line-height: 2em;
   letter-spacing: 0.1em;
 
 }
@@ -88,7 +88,7 @@ strong, b{
 }
 
 em, i {
-  color: #137CA1;/*#009688;*/
+  color: #7DBCC8;/*#009688;*/
 }
 
 hr {
